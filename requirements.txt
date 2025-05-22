@@ -1,16 +1,8 @@
-langchain_openai
 langchain_core
 streamlit
 langchain_community
 python-dotenv
-langserve
-fastapi
-uvicorn
-sse_starlette
-bs4
 pypdf
-chromadb
-faiss-cpu
 groq
 langchain-groq
 beautifulsoup4
