@@ -1,4 +1,4 @@
-##ChatGroq with LLaMA3 Demo
+## ChatGroq with LLaMA3 Demo
 
 This project is a Streamlit-based web application that allows users to interact with documents using LLaMA3 via ChatGroq. The app ingests PDF documents, creates vector embeddings using FAISS, and retrieves document-based answers through a conversational interface.
 
